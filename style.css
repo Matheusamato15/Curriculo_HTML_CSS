@@ -1,7 +1,7 @@
 body  {  	
 	margin: 0;  	
 	padding: 10px 10px;  	
-	background: gray;
+	background: #4F4F4F;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 1.3em;
     
@@ -12,9 +12,9 @@ body  {
     margin-top: 80px;
     margin-left: 7%;
     width: 40%;
-    background: #add8e6;
+    background: #6A5ACD;
     text-align: center;
-
+    
 }
 
 .titulo img{
@@ -100,7 +100,7 @@ body  {
     margin-top: 80px;
     margin-right: 50px;
     width: 50%;
-    background: #FF4500;
+    background: #A9A9A9;
     text-align: center;
 }
 
